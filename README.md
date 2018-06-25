@@ -1,4 +1,4 @@
-# SUBSTRING Version 0.2
+# SUBSTRING Version 0.2 (Published on PyPI)
 
 ## Multi-Operational and Flexible Substring Package
 
@@ -13,3 +13,5 @@ It has four parameters namely, initialString, startInd, endInd, and stepSize(def
 This package is "Multi-Operational" because it not only gets you the substring of your choice with such ease but also allows you to play around with the step sizes that you want. For example, consider the same string "abcdefghijklmnopqrstuvwxyz", and you can pull out "aceg" by entering the startChar, endChar, stepSize as "a", "g" and 2 respectively.
 
 With such ease of use, this package efficiently handles all the exceptions caused and lets the user know about them which makes the user experience very rich.
+
+### For using this package, simply type "pip install substring" in your command line.
