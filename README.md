@@ -10,6 +10,7 @@ It has four parameters namely, initialString, startChar, endChar, and stepSize(d
 ### 2) substringByInd() 
 It has four parameters namely, initialString, startInd, endInd, and stepSize(default=1). It would spit out the substring on the basis of the indices entered. For example, consider a string "abcdefghijklmnopqrstuvwxyz" and I can pull out the substring "defghijkl" by just specifying the start and end indices as 3 and 11 respectively because "d" and "l" represent the indices 3 and 11 respectively. It has also the feature of step size where you can change and get your substrings accordingly.
 
+### Why it might be a great tool for developers?
 This package is "Multi-Operational" because it not only gets you the substring of your choice with such ease but also allows you to play around with the step sizes that you want. For example, consider the same string "abcdefghijklmnopqrstuvwxyz", and you can pull out "aceg" by entering the startChar, endChar, stepSize as "a", "g" and 2 respectively.
 
 With such ease of use, this package efficiently handles all the exceptions caused and lets the user know about them which makes the user experience very rich.
